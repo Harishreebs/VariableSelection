@@ -1,0 +1,10 @@
+Package: VariableSelection
+Type: Package
+Title:Variable Selection for Linear Regression
+Version: 0.1.0
+Author: Harishree Balasubramanian
+Maintainer: Harishree Balasubramanian <harishreebs@gmail.com>
+Description: This package incldes function which accepts dataframe,predictors and targetvariable and gives table of Rsquared,adjRSquared and P-value for combination of predictors which helps in Variable selection of Linear Regression.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
